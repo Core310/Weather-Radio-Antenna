@@ -7,14 +7,35 @@ During severe weather, espically tornadoes, internet connection is rarely avalia
 - Use cable with RCA connectors to extend the placement of the antenna.
 
 ### Tech And Materials
-- [Antenna Calculations]
+- [`m0ukd` Slim Jim and J Pole calculator]
 - [SWR Meter]
 - [Twin Lead]
 
-### Contributors
+### Contributing
+
+### Example Table for Oklahoma
+The primary frequency for the Norman area is 162.4Mhz, WXK85 Station.  The counties listed below will receive Alert Tones.
+KJY94 Station transmitting from Chickasha is on 162.45Mhz, and the Alerting Area covers Caddo, Canadian, Cleveland, Comanche, Garvin, Grady, McClain, Stephens Counties.
+|    County    | SAME Code | NWR Transmitter | Call Sign | Frequency |
+|:------------:|:---------:|:---------------:|:---------:|:---------:|
+|   Cleveland  |   040027  |       OKC       |   WXK85   |  162.400  |
+|   Canadian   |   040017  |       OKC       |   WXK85   |  162.400  |
+|     Grady    |   040051  |       OKC       |   WXK85   |  162.400  |
+|  Kingfisher  |   040073  |       OKC       |   WXK85   |  162.400  |
+|    Lincoln   |   040081  |       OKC       |   WXK85   |  162.400  |
+|     Logan    |   040083  |       OKC       |   WXK85   |  162.400  |
+|    McClain   |   040087  |       OKC       |   WXK85   |  162.400  |
+|   Oklahoma   |   040109  |       OKC       |   WXK85   |  162.400  |
+|     Payne    |   040119  |       OKC       |   WXK85   |  162.400  |
+| Pottawatomie |   040125  |       OKC       |   WXK85   |  162.400  |
+
+Remember,
+`Watch` -  Conditions are favorable or expected, but not occurring or imminent - Be Prepared.
+`Warning` - Conditions are occurring or imminent - Take Action
+### Credits
 This Project was made possible with the generous support of the members of South Canadian Amateur Radio Society and the permission from the City of Norman Emergency Management. 
 
-[Antenna for Weather Radio]: <>
-[Antenna calculations]: < >
+[Antenna for Weather Radio]: <https://w5nor.org/wxradio/>
+[`m0ukd` Slim Jim and J Pole calculator]: <https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator/ >
 [SWR meter]:< >
 [Twin lead]:< >

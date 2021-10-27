@@ -8,9 +8,13 @@ During severe weather, espically tornadoes, internet connection is rarely avalia
 
 # Building
 1) Mark the twin-lead antenna points (feedpoint and 1/2 wave point).
+
 https://user-images.githubusercontent.com/32469530/138995822-c754fb50-0519-4720-9377-1afdac35858d.mp4
+
 2) Cut the top line 
-https://user-images.githubusercontent.com/32469530/138996222-2d9f6348-b10e-4ae8-8d9c-def717feaf6c.mp4
+
+![step2_SparkVideo](https://user-images.githubusercontent.com/32469530/139094637-f77d65ea-aca2-44b7-9471-a5c0608f8ac9.gif)
+
 3) 
 
 

@@ -26,7 +26,10 @@ Build time: 45~ minutes at minimum.
 5) Cut and remove the centrepiece of the twin lead end. Expose wires of cut area.
 
 6) Fold and solder the edge to short it.
+
+
 ![step6and7_not_cutting_out_the_middle_of_twin_lead_included__SparkVideo](https://user-images.githubusercontent.com/32469530/139163858-7009fe69-6d99-4a28-a9f4-bcb15c1a278b.gif)
+
 
 7) Expose the wires at the feed point and make a small hole (while leaving the wires intact).
 ![step8_SparkVideo](https://user-images.githubusercontent.com/32469530/139163900-03792393-cd04-402a-86f2-0bbcbee56d1a.gif)

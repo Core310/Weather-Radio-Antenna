@@ -55,9 +55,11 @@ https://user-images.githubusercontent.com/32469530/139178515-7042e641-66ce-4521-
 
 ![step14_SparkVideo](https://user-images.githubusercontent.com/32469530/139172119-98a26f4c-570a-46a1-95b1-ebfd697eb4b9.gif)
 
-13) Glue on the soldered point and attach the end. #Step 15,16
+13) Glue on the soldered point and attach the end.
 
 ![step15and16_SparkVideo](https://user-images.githubusercontent.com/32469530/139172191-fe4a1943-788b-4e56-9726-4318099204a0.gif)
+
+14) Check the antenna!
 
 
 ## Tech And Materials

@@ -6,6 +6,7 @@ During severe weather, especially tornadoes, internet connection is rarely avail
 - Avoid hanging on metal surfaces if possible for best performance.
 - Use a cable with RCA connectors to extend the placement of the antenna.
 
+IF you are looking for a more permanent installation, I would recommend using this design instead: https://www.weather.gov/cae/antenna.html
 # [Building](https://github.com/Core310/Weather-Radio-Antenna/blob/main/BuildDirections.md#building)
 See BuildDirections.md file. 
 

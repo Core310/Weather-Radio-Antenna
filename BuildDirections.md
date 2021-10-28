@@ -1,4 +1,4 @@
-
+<iframe src="https://player.vimeo.com/video/639795250?h=9c610d1135&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Step9.mp4"></iframe>
 
 # Building
 Build time: 45~ minutes at minimum.
@@ -19,7 +19,7 @@ Build time: 45~ minutes at minimum.
 
 4) Cut down the middle of the wire until the end. MAKE sure to leave a little notch at the end so you can hang the antenna! (TODO ADD PICTURE OF NOTCH)
 
-![step4_SparkVideo](https://user-images.githubusercontent.com/32469530/139171287-60787c7b-2bb6-4fd3-ba86-f3948359be85.gif)
+https://user-images.githubusercontent.com/32469530/139178320-66d1c76f-5b4b-4e2c-9ca7-69ed9454cf43.mp4
 
 5) Cut and remove the centrepiece of the twin lead end. Expose wires of cut area.
 
@@ -43,7 +43,7 @@ Build time: 45~ minutes at minimum.
 
 9) Attach one coax side to the feed point made in step TODODSAG (it does not matter what hole the copper mesh and wire goes into). 
 
-![step11_SparkVideo](https://user-images.githubusercontent.com/32469530/139171742-8d3a4eb6-f1cf-49cc-9c37-02b43f812756.gif)
+https://user-images.githubusercontent.com/32469530/139178515-7042e641-66ce-4521-919a-9d432fd48ce9.mp4
 
 10) Solder the feed point 
 

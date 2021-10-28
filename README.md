@@ -9,11 +9,6 @@ During severe weather, especially tornadoes, internet connection is rarely avail
 # [Building](https://github.com/Core310/Weather-Radio-Antenna/blob/main/BuildDirections.md#building)
 See BuildDirections.md file. 
 
-## Tech And Materials
-- [`m0ukd` Slim Jim and J Pole calculator]
-- [SWR Meter]
-- [Twin Lead]
-
 # Contributing
 Contributions are welcome and very appreciated. 
 - For QOL changes not relating to change in design, include your summary and if applicable, links in your pull request. 

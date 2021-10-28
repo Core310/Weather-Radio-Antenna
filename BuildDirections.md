@@ -1,5 +1,3 @@
-<iframe src="https://player.vimeo.com/video/639795250?h=9c610d1135&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Step9.mp4"></iframe>
-
 # Building
 Build time: 45~ minutes at minimum.
 
@@ -7,8 +5,7 @@ Build time: 45~ minutes at minimum.
 
 ![step1_SparkVideo](https://user-images.githubusercontent.com/32469530/139163452-fbf70cf4-a2a4-46dc-968a-cc48cbe7dfef.gif)
 
-
-2) Cut to length. Leave 1/4" at the bottom for shorting. TDO
+2) Cut to length. Leave 1/4" at the bottom for shorting.
 
 ![step2_SparkVideo](https://user-images.githubusercontent.com/32469530/139163460-023ab882-564f-442b-a1a5-867e6bd2f655.gif)
 
@@ -32,6 +29,7 @@ https://user-images.githubusercontent.com/32469530/139178320-66d1c76f-5b4b-4e2c-
 7) Expose the wires at the feed point and make a small hole (while leaving the wires intact).
 
 ![step8_SparkVideo](https://user-images.githubusercontent.com/32469530/139163900-03792393-cd04-402a-86f2-0bbcbee56d1a.gif)
+
 ![step8__SparkVideo](https://user-images.githubusercontent.com/32469530/139163902-bae3ffa0-294f-45bc-9aec-0c7514e0590f.gif)
 
 8) Prepare BOTH sides of the Coax:
@@ -41,7 +39,7 @@ https://user-images.githubusercontent.com/32469530/139178320-66d1c76f-5b4b-4e2c-
 
 ![step9and10_SparkVideo](https://user-images.githubusercontent.com/32469530/139171730-6df58db5-d7aa-45f7-9337-1b311646965c.gif)
 
-9) Attach one coax side to the feed point made in step TODODSAG (it does not matter what hole the copper mesh and wire goes into). 
+9) Attach one coax side to the feed point made in step 7 (it does not matter what hole the copper mesh and wire goes into). 
 
 https://user-images.githubusercontent.com/32469530/139178515-7042e641-66ce-4521-919a-9d432fd48ce9.mp4
 
